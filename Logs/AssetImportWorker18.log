@@ -1,0 +1,812 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.1f1 (a6dd9a634651) revision 10935706'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 16005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker18
+-projectPath
+D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+-logFile
+Logs/AssetImportWorker18.log
+-srvPort
+51188
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [9516] Host "[IP] 192.168.204.1 [Port] 0 [Flags] 2 [Guid] 209852329 [EditorId] 209852329 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IBBANTT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [9516] Host "[IP] 192.168.204.1 [Port] 0 [Flags] 2 [Guid] 209852329 [EditorId] 209852329 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IBBANTT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.1f1 (a6dd9a634651)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   31.0.15.1691
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56104
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004436 seconds.
+- Loaded All Assemblies, in  0.635 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.501 seconds
+Domain Reload Profiling: 1132ms
+	BeginReloadAssembly (240ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (88ms)
+	LoadAllAssembliesAndSetupDomain (232ms)
+		LoadAssemblies (236ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (229ms)
+			TypeCache.Refresh (227ms)
+				TypeCache.ScanAssembly (205ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (502ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (418ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (14ms)
+			ProcessInitializeOnLoadAttributes (310ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  1.221 seconds
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.834 seconds
+Domain Reload Profiling: 2046ms
+	BeginReloadAssembly (491ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (610ms)
+		LoadAssemblies (508ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (256ms)
+			TypeCache.Refresh (202ms)
+				TypeCache.ScanAssembly (182ms)
+			BuildScriptInfoCaches (37ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (834ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (516ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (423ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (15ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 194 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5843 unused Assets / (3.5 MB). Loaded Objects now: 6534.
+Memory consumption went from 267.3 MB to 263.8 MB.
+Total: 11.604700 ms (FindLiveObjects: 0.895100 ms CreateObjectMapping: 0.612500 ms MarkObjects: 7.877100 ms  DeleteObjects: 2.218600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 510219.250842 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/ADSLight9b.mat
+  artifactKey: Guid(5b34288e057b90a42ab44bdb1204e671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/ADSLight9b.mat using Guid(5b34288e057b90a42ab44bdb1204e671) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31027902bc3904a756693a6d1831d0e6') in 0.5326828 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert03.mat
+  artifactKey: Guid(21a9e3aa5dd51904fb33aa781262c427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert03.mat using Guid(21a9e3aa5dd51904fb33aa781262c427) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0eb0d09d544d932e3695c23492dd7770') in 1.2728696 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Doors/BuildDoor00_lgt 1.mat
+  artifactKey: Guid(96cef33561ee58d49b0bcfed39ea4b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Doors/BuildDoor00_lgt 1.mat using Guid(96cef33561ee58d49b0bcfed39ea4b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c3e0c2335e7a8895fdaae1ced25b176') in 0.1205604 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/Bricks00b_Dust.mat
+  artifactKey: Guid(9aa8339141d122044b747a5243183a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/Bricks00b_Dust.mat using Guid(9aa8339141d122044b747a5243183a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e19a221ce3ad23fc2fd0ff095338d3e0') in 0.0775673 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Doors/BuildDoor01.mat
+  artifactKey: Guid(a3c0d415c54fae04a9faa65470ded6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Doors/BuildDoor01.mat using Guid(a3c0d415c54fae04a9faa65470ded6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf41a0e8b4f20a07d1cae745f6f38f1d') in 0.0481306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Doors/BuildDoor00.mat
+  artifactKey: Guid(c9981c93e466658458592306499d2d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Doors/BuildDoor00.mat using Guid(c9981c93e466658458592306499d2d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f5505a9e725e33829d3033e380b6f68') in 0.0515248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+  artifactKey: Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat using Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80f7953b26d752e7f51d3fca38927167') in 0.0753257 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00c 5.mat
+  artifactKey: Guid(aaeed27ea2565a944b735499bfd4b6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00c 5.mat using Guid(aaeed27ea2565a944b735499bfd4b6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f834540a45d43fad71e42f7f3f0f096') in 0.0397065 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Fabric/CarpetPannels00.mat
+  artifactKey: Guid(f26b2637cd578254db19469f18c67076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Fabric/CarpetPannels00.mat using Guid(f26b2637cd578254db19469f18c67076) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '545b3dcdae553d35103830e0da2616d0') in 0.0842234 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '31f62bdfb866f7ea61a9a38a92679892') in 0.0463409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Metal/BareSteelScratched00.mat
+  artifactKey: Guid(6822fa769fd87e143be8584e9efa214a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Metal/BareSteelScratched00.mat using Guid(6822fa769fd87e143be8584e9efa214a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e083f27a3e2ffbe47fbda8f02a3c8b7d') in 0.0916866 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
+  artifactKey: Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat using Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f3508ff33b61cd73e9b5b8bd6fde453f') in 0.0267831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickStretchDust00b.mat
+  artifactKey: Guid(2e4dee34cfa91f84bab02c1a85f0d4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickStretchDust00b.mat using Guid(2e4dee34cfa91f84bab02c1a85f0d4fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e64d3466dced5ae993b09ab41c9eba91') in 0.0357172 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Asphalt/Asphalt00.mat
+  artifactKey: Guid(bd9bf837cf5d9514aa48d2301ca4017c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Asphalt/Asphalt00.mat using Guid(bd9bf837cf5d9514aa48d2301ca4017c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54bb733e3066045bbeb1f7c9a98a1d4f') in 0.0635483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00c 2.mat
+  artifactKey: Guid(e79d8cffcb4d24c4da14c045c6c339d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00c 2.mat using Guid(e79d8cffcb4d24c4da14c045c6c339d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b94f68448f1476baa6bbc9eec2eb3be') in 0.054532 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Special/Grid/BasicGrid 1.mat
+  artifactKey: Guid(26c25172998820245bffcd83d5203a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Special/Grid/BasicGrid 1.mat using Guid(26c25172998820245bffcd83d5203a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29793bc0fbad1ffc419701aa5585f0cc') in 0.0407166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00.mat
+  artifactKey: Guid(c6389da2a8db8904189c94ad3f88c264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00.mat using Guid(c6389da2a8db8904189c94ad3f88c264) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '60bea09eaad4c3e9d163d9face6e8b57') in 0.0386767 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+  artifactKey: Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat using Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29160139d8169546145df7a0bc476770') in 0.0160197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
+  artifactKey: Guid(979aef027a1c86c42a15ce35fce366fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Art/Materials/Blue_Mat.mat using Guid(979aef027a1c86c42a15ce35fce366fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a561f4d86d38aae482b5082fcf1e92be') in 0.0246066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildingWindows01.mat
+  artifactKey: Guid(90e2157e382b7d940ad54fd1d4d5f041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildingWindows01.mat using Guid(90e2157e382b7d940ad54fd1d4d5f041) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '552b5ce65c657ead8cd5bce90b95884a') in 0.0919094 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert04.mat
+  artifactKey: Guid(7ae795e96cdb4c740a76b76e94af3b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert04.mat using Guid(7ae795e96cdb4c740a76b76e94af3b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f91a32c9d360a3fd2347a77e49c708b') in 0.0301582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/CeramicDirtTiles02.mat
+  artifactKey: Guid(9a65ce1100923ef478fba0487f48e647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/CeramicDirtTiles02.mat using Guid(9a65ce1100923ef478fba0487f48e647) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c0c8c304d7d650f79e0e3c7087c773a') in 0.0816266 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.450335 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_10x3.obj
+  artifactKey: Guid(48acf5b826a5a8245b5fae1b7b9f4dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_10x3.obj using Guid(48acf5b826a5a8245b5fae1b7b9f4dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd51a133be83ac1edabc58369f0c14d9e') in 0.1209284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 40
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_1x3.obj
+  artifactKey: Guid(04c6508207438bd419a5f957d6a6f299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_1x3.obj using Guid(04c6508207438bd419a5f957d6a6f299) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3f7d48492f000c93ff4a3b3a2064070') in 0.050791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_0.5x3.obj
+  artifactKey: Guid(7ccea16fa2e727c4f8804c3aa3aad871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_0.5x3.obj using Guid(7ccea16fa2e727c4f8804c3aa3aad871) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6bdf241561c80590310a2a0c8f3ac3e') in 0.0729818 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 40
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 3.mat
+  artifactKey: Guid(3293b63b9ddfc15428a1ce8c15a2d86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 3.mat using Guid(3293b63b9ddfc15428a1ce8c15a2d86e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cbc9ff3cde538c34624c4dc70b4c8ea2') in 0.1310326 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 6.mat
+  artifactKey: Guid(afea5e752ea2a214f909c6b8b293dd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 6.mat using Guid(afea5e752ea2a214f909c6b8b293dd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b55d613b255660c8d02ef7c17bcd0f09') in 0.0790326 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2.5x3.obj
+  artifactKey: Guid(5bf6ed0d5b93d16418b0609cd0610da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2.5x3.obj using Guid(5bf6ed0d5b93d16418b0609cd0610da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7b52f1b2301ce61f6c24cfcf60324f0') in 0.0632585 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 5.mat
+  artifactKey: Guid(6050ac3b67de16140a0eaec178ee1f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 5.mat using Guid(6050ac3b67de16140a0eaec178ee1f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3bc94794de6edbbc7f2161d94cee769d') in 0.0727238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03.mat
+  artifactKey: Guid(c369d0f52a146b042b617f031ebc473f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03.mat using Guid(c369d0f52a146b042b617f031ebc473f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf6415883b00b385f2841aa6a5cca45f') in 0.0418258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_2.5x3.obj
+  artifactKey: Guid(aa7769cfddedc6c4bafe5f7563df2ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_2.5x3.obj using Guid(aa7769cfddedc6c4bafe5f7563df2ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9948824c5257fa01d7019ea9ad45fcd7') in 0.0815688 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 40
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcretePannelsPerforated00.mat
+  artifactKey: Guid(ff988a12c518bc043b9c6fa23422622d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcretePannelsPerforated00.mat using Guid(ff988a12c518bc043b9c6fa23422622d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd33d69829932a341d844d875a55c964f') in 0.0788971 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03d.mat
+  artifactKey: Guid(55ddced2bccc88545acf936ba83fa6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03d.mat using Guid(55ddced2bccc88545acf936ba83fa6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e935a19a1645cfbff401b6086c09e845') in 0.0940619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03b_1.mat
+  artifactKey: Guid(1994ae3c6aff2134ba23e4f506ed7914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03b_1.mat using Guid(1994ae3c6aff2134ba23e4f506ed7914) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3eec3c4d4e67adfa253bc7a4501265bc') in 0.0473988 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 1.mat
+  artifactKey: Guid(01d9d5c2cd09c9a46a87f8e40fef7c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 1.mat using Guid(01d9d5c2cd09c9a46a87f8e40fef7c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8ca1816e1702f75611b98b6bb2b73d3') in 0.0823328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03Dirt.mat
+  artifactKey: Guid(c216698ecd1871448906a71ae3dbcfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03Dirt.mat using Guid(c216698ecd1871448906a71ae3dbcfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b59843f80edf94ef41a4c31bea3ac91') in 0.0719386 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.831104 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcretePannelsPerforated00b.mat
+  artifactKey: Guid(2de3c77e7f9bb804d8b2e2faa28b6c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcretePannelsPerforated00b.mat using Guid(2de3c77e7f9bb804d8b2e2faa28b6c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4b9ba4dbaf1f3a1b98ee4dc5857ba841') in 0.0654367 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/Cristal01.mat
+  artifactKey: Guid(07e8825f438f4f849ac32f516e906dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/Cristal01.mat using Guid(07e8825f438f4f849ac32f516e906dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a1ad41e5780d1db7165f80db2756f1e2') in 0.0556951 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/CristalDirt00.mat
+  artifactKey: Guid(a0168e5a67f1c4c4784837f267c1359a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/CristalDirt00.mat using Guid(a0168e5a67f1c4c4784837f267c1359a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0053965a56c6c8c4930e29489d51e286') in 0.0485218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcreteTiles01b.mat
+  artifactKey: Guid(ca04b395b8325ed4987ee823f319abce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcreteTiles01b.mat using Guid(ca04b395b8325ed4987ee823f319abce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '039eff6aa19d2059634108b87e7884a0') in 0.0951461 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_DLNK/_DLNK Source/Source Materials/CharIco/Crystal.mat
+  artifactKey: Guid(7fd6d8234d5b8da419d8cb2f4312274c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/_DLNK Source/Source Materials/CharIco/Crystal.mat using Guid(7fd6d8234d5b8da419d8cb2f4312274c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a75b3e993970173a6eb95411fcf9a918') in 0.0569237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/Cristal06Opaque 2.mat
+  artifactKey: Guid(c34432f1fb593154fb9879e2899cc849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/Cristal06Opaque 2.mat using Guid(c34432f1fb593154fb9879e2899cc849) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd20f8f950d4bab581884b6867768096') in 0.0775349 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.267444 seconds.
+  path: Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Script Library]/TopDown Wizard/Source/Materials/CShadow.mat
+  artifactKey: Guid(6c6eda8f56f8975479e45f8e98b2b624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Script Library]/TopDown Wizard/Source/Materials/CShadow.mat using Guid(6c6eda8f56f8975479e45f8e98b2b624) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6e63032b86051ec25656239554c8062') in 0.0191563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel04.mat
+  artifactKey: Guid(5eece0574e399ba4c82a27dd25585a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel04.mat using Guid(5eece0574e399ba4c82a27dd25585a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ad269ee05aabfc64ea1a0a05feafc01') in 0.0748909 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 27
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/DecalNum1.mat
+  artifactKey: Guid(eba067257a1540146a6cff5808f23e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/DecalNum1.mat using Guid(eba067257a1540146a6cff5808f23e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2070edd46c1a16f8ce3b94c5b45e7096') in 0.0555821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum0.mat
+  artifactKey: Guid(e793176bcfeee054988d512692f94c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum0.mat using Guid(e793176bcfeee054988d512692f94c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84e1e6540c5b3ada3d96d160e899fc14') in 0.0395871 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel03.mat
+  artifactKey: Guid(15139aee2881ce1439fb3de9954d2835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel03.mat using Guid(15139aee2881ce1439fb3de9954d2835) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4cb7edf88c866e5dbf965025be9fafa1') in 0.1294907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel01.mat
+  artifactKey: Guid(d4f28707201ae4446a6d6609a7a425b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel01.mat using Guid(d4f28707201ae4446a6d6609a7a425b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5de0c37371fad8c9d97559a574531d1') in 0.0906839 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum1.mat
+  artifactKey: Guid(82df8ef44f888d34380b9caa7f08e579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum1.mat using Guid(82df8ef44f888d34380b9caa7f08e579) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '914ec8443503969836e6f8f77406866e') in 0.0469424 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/_DLNK/_DLNK Source/Source Materials/CharIco/DarkPlastic.mat
+  artifactKey: Guid(500148fa945f2984db0b5e986752eb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/_DLNK Source/Source Materials/CharIco/DarkPlastic.mat using Guid(500148fa945f2984db0b5e986752eb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1afe6ce8af08f937d519c93956a9898c') in 0.0345332 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/DecalNum1b.mat
+  artifactKey: Guid(62683f4c0ca700f4f99c1e20dc25af7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/DecalNum1b.mat using Guid(62683f4c0ca700f4f99c1e20dc25af7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e1457ab84ab363cd0cff284529d6a5f') in 0.0361971 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel02.mat
+  artifactKey: Guid(d33222dd537781e4487a3233b6f7b42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel02.mat using Guid(d33222dd537781e4487a3233b6f7b42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '40b4ab36943bea62d29a28fb1b24f7d3') in 0.1020703 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.893625 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/DecalNum3.mat
+  artifactKey: Guid(a54b4dd7ef1f6904fb6ad107132e6e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/DecalNum3.mat using Guid(a54b4dd7ef1f6904fb6ad107132e6e16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '641d722efd6bd4050018e9ce47948e5c') in 0.0428822 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum9.mat
+  artifactKey: Guid(d464f083f8236bf4ca5c113840aaad44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum9.mat using Guid(d464f083f8236bf4ca5c113840aaad44) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '342c83866a70af518024ef128003edb1') in 0.035308 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/DecalNum4b.mat
+  artifactKey: Guid(6f84e93219723204792bc68ad8bc2231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/DecalNum4b.mat using Guid(6f84e93219723204792bc68ad8bc2231) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3dde4498ae7d64982c526b7167c2c0b') in 0.0416277 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum4.mat
+  artifactKey: Guid(1e4d1b41d4f01304c9ffa28229e5b86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum4.mat using Guid(1e4d1b41d4f01304c9ffa28229e5b86c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99830d88175bd573e7601f694be933ce') in 0.0407588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/DecalPlate00.mat
+  artifactKey: Guid(3edfd1006f5c8e94c972bbd4d0efac6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/DecalPlate00.mat using Guid(3edfd1006f5c8e94c972bbd4d0efac6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3de48985e624baa625bcb50a8f6fbedf') in 0.0285198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013916 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/DiamondTiles00.mat
+  artifactKey: Guid(2a6635882866ad14aa4f07f2955bc414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/DiamondTiles00.mat using Guid(2a6635882866ad14aa4f07f2955bc414) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f7c27c72b157ad78968663673457174') in 0.067448 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/FXs/Clouds/ETP_Cloud_01.mat
+  artifactKey: Guid(2de669b8c3345a44b852dc11b6886c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/FXs/Clouds/ETP_Cloud_01.mat using Guid(2de669b8c3345a44b852dc11b6886c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf0d08e63121adc4cfc3cc20dea28293') in 0.0350846 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants02.mat
+  artifactKey: Guid(3791ff002ab8fbe4b8e4213da283cdcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants02.mat using Guid(3791ff002ab8fbe4b8e4213da283cdcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2eb902035140e3b8e37b96af8138d541') in 0.0314955 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants03.mat
+  artifactKey: Guid(4767c120ad10b5543afcdae1550dce7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants03.mat using Guid(4767c120ad10b5543afcdae1550dce7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65327939696a07d0cc728bf869903333') in 0.0313624 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Special/Particles/DustParticle 1.mat
+  artifactKey: Guid(188b92114f7dc4f489d15ca55a5a37ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Special/Particles/DustParticle 1.mat using Guid(188b92114f7dc4f489d15ca55a5a37ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cf0b0947b05b97cd628a46888e9a1558') in 0.1572044 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/FloorTiles00.mat
+  artifactKey: Guid(5a7dae5665588d54bb1f01ab8376caed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/FloorTiles00.mat using Guid(5a7dae5665588d54bb1f01ab8376caed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e05d2270e6d570182e9e51b6f8ce2e0') in 0.0563052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/FloorTiles01.mat
+  artifactKey: Guid(366ab1d60117a8a46982b71269e46927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/FloorTiles01.mat using Guid(366ab1d60117a8a46982b71269e46927) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '125f70db3d8ca2edbf49e0100be37675') in 0.0393857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.604312 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3dfcff929fbed43e787796e5971f87ef') in 0.0467643 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf
+  artifactKey: Guid(f4eec857a4fdf2f43be0e9f3d1a984e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf using Guid(f4eec857a4fdf2f43be0e9f3d1a984e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ebbe7a476f274e01fec38ab04d5ac3c3') in 0.0151808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF
+  artifactKey: Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF using Guid(8a2b9e2a607dd2143b58c44bc32410b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0188bd451a00b21f5937e410340a6ef1') in 0.0168964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.219083 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Graff/Graff02.mat
+  artifactKey: Guid(fa89f1e9b089ae243bd67bcb937eebba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Graff/Graff02.mat using Guid(fa89f1e9b089ae243bd67bcb937eebba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb64f8b99ea7fdcea4e82948b9ebb45c') in 0.0424329 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Graff/Graff08.mat
+  artifactKey: Guid(178abd4e51d646c42930e6c9dc6e2fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Graff/Graff08.mat using Guid(178abd4e51d646c42930e6c9dc6e2fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be025e1bf8f51eed38342d802c9edca1') in 0.0290027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.994 seconds
+Refreshing native plugins compatible for Editor in 2.76 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.005 seconds
+Domain Reload Profiling: 1992ms
+	BeginReloadAssembly (262ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (583ms)
+		LoadAssemblies (518ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (202ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (5ms)
+			BuildScriptInfoCaches (166ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1006ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (643ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (84ms)
+			ProcessInitializeOnLoadAttributes (494ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 34 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5875 unused Assets / (4.1 MB). Loaded Objects now: 6655.
+Memory consumption went from 248.2 MB to 244.2 MB.
+Total: 8.844900 ms (FindLiveObjects: 0.926100 ms CreateObjectMapping: 0.418700 ms MarkObjects: 5.220700 ms  DeleteObjects: 2.278000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

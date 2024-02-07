@@ -1,0 +1,2131 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.1f1 (a6dd9a634651) revision 10935706'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 16005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker16
+-projectPath
+D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+-logFile
+Logs/AssetImportWorker16.log
+-srvPort
+51188
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21036] Host "[IP] 192.168.204.1 [Port] 0 [Flags] 2 [Guid] 538554361 [EditorId] 538554361 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IBBANTT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [21036] Host "[IP] 192.168.204.1 [Port] 0 [Flags] 2 [Guid] 538554361 [EditorId] 538554361 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IBBANTT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 2.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.1f1 (a6dd9a634651)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   31.0.15.1691
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56784
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007000 seconds.
+- Loaded All Assemblies, in  0.513 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.367 seconds
+Domain Reload Profiling: 877ms
+	BeginReloadAssembly (205ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (62ms)
+	LoadAllAssembliesAndSetupDomain (187ms)
+		LoadAssemblies (198ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (184ms)
+			TypeCache.Refresh (183ms)
+				TypeCache.ScanAssembly (167ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (367ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (299ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (8ms)
+			ProcessInitializeOnLoadAttributes (212ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  1.148 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.062 seconds
+Domain Reload Profiling: 2203ms
+	BeginReloadAssembly (427ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (608ms)
+		LoadAssemblies (493ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (252ms)
+			TypeCache.Refresh (201ms)
+				TypeCache.ScanAssembly (184ms)
+			BuildScriptInfoCaches (36ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1062ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (743ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (84ms)
+			ProcessInitializeOnLoadAttributes (595ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 176 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5805 unused Assets / (3.0 MB). Loaded Objects now: 6482.
+Memory consumption went from 260.5 MB to 257.5 MB.
+Total: 8.220300 ms (FindLiveObjects: 0.759400 ms CreateObjectMapping: 0.449300 ms MarkObjects: 5.197000 ms  DeleteObjects: 1.813100 ms)
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.853 seconds
+Refreshing native plugins compatible for Editor in 1.78 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.822 seconds
+Domain Reload Profiling: 1670ms
+	BeginReloadAssembly (279ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (453ms)
+		LoadAssemblies (448ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (179ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (153ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (823ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (556ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (424ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Refreshing native plugins compatible for Editor in 1.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5851 unused Assets / (6.5 MB). Loaded Objects now: 6517.
+Memory consumption went from 239.9 MB to 233.5 MB.
+Total: 11.635000 ms (FindLiveObjects: 0.857600 ms CreateObjectMapping: 0.690700 ms MarkObjects: 6.077400 ms  DeleteObjects: 4.007900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 508498.884414 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7661b93b3d68833313bfc9fae6afdecb') in 0.5847299 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 35
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe102431c5a6ac08ac54b9f3d3fb24c7') in 0.0745092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5845 unused Assets / (6.6 MB). Loaded Objects now: 6658.
+Memory consumption went from 241.3 MB to 234.7 MB.
+Total: 12.023000 ms (FindLiveObjects: 0.820200 ms CreateObjectMapping: 0.375100 ms MarkObjects: 7.857900 ms  DeleteObjects: 2.968200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.826 seconds
+Refreshing native plugins compatible for Editor in 1.63 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.871 seconds
+Domain Reload Profiling: 1694ms
+	BeginReloadAssembly (262ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (469ms)
+		LoadAssemblies (431ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (158ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (871ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (568ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (91ms)
+			ProcessInitializeOnLoadAttributes (420ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (29ms)
+Refreshing native plugins compatible for Editor in 1.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 45 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (5.9 MB). Loaded Objects now: 6595.
+Memory consumption went from 251.6 MB to 245.6 MB.
+Total: 9.279600 ms (FindLiveObjects: 1.382800 ms CreateObjectMapping: 0.562600 ms MarkObjects: 4.410800 ms  DeleteObjects: 2.922000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.855 seconds
+Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.904 seconds
+Domain Reload Profiling: 1759ms
+	BeginReloadAssembly (279ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (66ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (482ms)
+		LoadAssemblies (428ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (189ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (162ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (905ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (568ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (102ms)
+			ProcessInitializeOnLoadAttributes (410ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Refreshing native plugins compatible for Editor in 1.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (5.9 MB). Loaded Objects now: 6595.
+Memory consumption went from 251.5 MB to 245.7 MB.
+Total: 8.333400 ms (FindLiveObjects: 0.873000 ms CreateObjectMapping: 0.460400 ms MarkObjects: 4.367700 ms  DeleteObjects: 2.631200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.822 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.840 seconds
+Domain Reload Profiling: 1657ms
+	BeginReloadAssembly (248ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (475ms)
+		LoadAssemblies (430ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (190ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (162ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (841ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (543ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (413ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (39ms)
+Refreshing native plugins compatible for Editor in 1.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (5.7 MB). Loaded Objects now: 6595.
+Memory consumption went from 253.4 MB to 247.7 MB.
+Total: 7.152800 ms (FindLiveObjects: 0.873300 ms CreateObjectMapping: 0.364000 ms MarkObjects: 3.681400 ms  DeleteObjects: 2.232900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.935 seconds
+Refreshing native plugins compatible for Editor in 1.22 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.822 seconds
+Domain Reload Profiling: 1754ms
+	BeginReloadAssembly (346ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (85ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (490ms)
+		LoadAssemblies (495ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (195ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (168ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (823ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (561ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (63ms)
+			ProcessInitializeOnLoadAttributes (444ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (5.8 MB). Loaded Objects now: 6595.
+Memory consumption went from 255.3 MB to 249.5 MB.
+Total: 7.394700 ms (FindLiveObjects: 0.758300 ms CreateObjectMapping: 0.376800 ms MarkObjects: 3.755800 ms  DeleteObjects: 2.502800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.998 seconds
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.828 seconds
+Domain Reload Profiling: 1823ms
+	BeginReloadAssembly (386ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (101ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (513ms)
+		LoadAssemblies (510ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (211ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (168ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (829ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (547ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (419ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (31ms)
+Refreshing native plugins compatible for Editor in 2.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (6.2 MB). Loaded Objects now: 6595.
+Memory consumption went from 257.3 MB to 251.1 MB.
+Total: 15.165900 ms (FindLiveObjects: 1.629900 ms CreateObjectMapping: 1.296500 ms MarkObjects: 7.188400 ms  DeleteObjects: 5.047000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.820 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.797 seconds
+Domain Reload Profiling: 1615ms
+	BeginReloadAssembly (275ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (73ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (453ms)
+		LoadAssemblies (378ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (202ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (175ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (798ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (527ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (414ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Refreshing native plugins compatible for Editor in 1.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (5.7 MB). Loaded Objects now: 6595.
+Memory consumption went from 259.2 MB to 253.6 MB.
+Total: 12.663000 ms (FindLiveObjects: 1.460600 ms CreateObjectMapping: 2.052300 ms MarkObjects: 5.516200 ms  DeleteObjects: 3.632100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.796 seconds
+Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.793 seconds
+Domain Reload Profiling: 1587ms
+	BeginReloadAssembly (234ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (468ms)
+		LoadAssemblies (413ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (160ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (793ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (528ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (412ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Refreshing native plugins compatible for Editor in 0.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (5.9 MB). Loaded Objects now: 6595.
+Memory consumption went from 261.1 MB to 255.2 MB.
+Total: 8.385300 ms (FindLiveObjects: 0.804800 ms CreateObjectMapping: 0.473300 ms MarkObjects: 4.294000 ms  DeleteObjects: 2.812100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.924 seconds
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.800 seconds
+Domain Reload Profiling: 1722ms
+	BeginReloadAssembly (368ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (107ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (459ms)
+		LoadAssemblies (457ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (187ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (160ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (800ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (531ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (415ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (29ms)
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (5.8 MB). Loaded Objects now: 6595.
+Memory consumption went from 263.1 MB to 257.3 MB.
+Total: 8.966900 ms (FindLiveObjects: 0.779400 ms CreateObjectMapping: 0.383800 ms MarkObjects: 5.298700 ms  DeleteObjects: 2.503900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.920 seconds
+Refreshing native plugins compatible for Editor in 1.29 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.789 seconds
+Domain Reload Profiling: 1705ms
+	BeginReloadAssembly (367ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (100ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (458ms)
+		LoadAssemblies (454ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (188ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (161ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (789ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (525ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (60ms)
+			ProcessInitializeOnLoadAttributes (412ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (6.0 MB). Loaded Objects now: 6595.
+Memory consumption went from 264.9 MB to 259.0 MB.
+Total: 8.536800 ms (FindLiveObjects: 0.758300 ms CreateObjectMapping: 0.399200 ms MarkObjects: 4.303000 ms  DeleteObjects: 3.073300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.770 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.812 seconds
+Domain Reload Profiling: 1580ms
+	BeginReloadAssembly (228ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (447ms)
+		LoadAssemblies (390ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (185ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (161ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (813ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (524ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (410ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (29ms)
+Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5848 unused Assets / (5.8 MB). Loaded Objects now: 6595.
+Memory consumption went from 266.9 MB to 261.1 MB.
+Total: 8.795500 ms (FindLiveObjects: 1.048800 ms CreateObjectMapping: 0.411000 ms MarkObjects: 4.398900 ms  DeleteObjects: 2.935500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1713.408408 seconds.
+  path: Assets/StarterAssets/Environment/Art/Models/Ramp_Mesh.fbx
+  artifactKey: Guid(426a2785f8a940049aac2c246661cf09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StarterAssets/Environment/Art/Models/Ramp_Mesh.fbx using Guid(426a2785f8a940049aac2c246661cf09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0ee8a2539bd5c354b4c2468d0a95e725') in 1.0961876 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads03.mat
+  artifactKey: Guid(2130a1585a6a20742a9ecf4a9069dd73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads03.mat using Guid(2130a1585a6a20742a9ecf4a9069dd73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e8d978de760d521ba7696c0eb24f2b0') in 0.055503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads04b.mat
+  artifactKey: Guid(8fc922f00121ec84d9fb4c80ccf4a8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads04b.mat using Guid(8fc922f00121ec84d9fb4c80ccf4a8ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '550f57bf18dc6b13568cee50e3774665') in 0.0810925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads14.mat
+  artifactKey: Guid(131a54ef6eb37e947a68c47bbb646aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads14.mat using Guid(131a54ef6eb37e947a68c47bbb646aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3d5004c33ca282613a478de8e8d62f7') in 0.0449834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads05b.mat
+  artifactKey: Guid(86d5cff8923c2ee4181b0feb6cae36ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads05b.mat using Guid(86d5cff8923c2ee4181b0feb6cae36ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a845ff51d82e20df6b32e065f530684c') in 0.0349286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads02.mat
+  artifactKey: Guid(24942bd2b95db7e4aa32c478a687ec95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads02.mat using Guid(24942bd2b95db7e4aa32c478a687ec95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c2252183458d68d34f78862dbc7cf443') in 0.0336387 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001484 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads20.mat
+  artifactKey: Guid(cb246489613283443baa485d6a2f9c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads20.mat using Guid(cb246489613283443baa485d6a2f9c3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '029f0add75022127cb768fb30261ba9f') in 0.0462316 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Script Library]/TopDown Wizard/Source/Materials/ActiveTrigger.mat
+  artifactKey: Guid(88ca6c9aceb08b245a0e436775de610d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Script Library]/TopDown Wizard/Source/Materials/ActiveTrigger.mat using Guid(88ca6c9aceb08b245a0e436775de610d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4cadee9d2c76db586e1db15abec3b0a') in 0.0519554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads00b 1.mat
+  artifactKey: Guid(ea4d9d7948bfc6f449e64421175759d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads00b 1.mat using Guid(ea4d9d7948bfc6f449e64421175759d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42e86081f91dc29ff4cbb4d9de370fe4') in 0.0240786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads15.mat
+  artifactKey: Guid(b8a8687fe8e87f246bb61d3086f72a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads15.mat using Guid(b8a8687fe8e87f246bb61d3086f72a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '346ab58e42b169429f3de3c4061e5da5') in 0.0253306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads17.mat
+  artifactKey: Guid(51d29d9dfb8bc8343ab467a5536f1454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads17.mat using Guid(51d29d9dfb8bc8343ab467a5536f1454) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45f21d2201eb8b5f4e503e0d0c490184') in 0.0315861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads09.mat
+  artifactKey: Guid(a661067d91d8a2e478045748e2f2cd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads09.mat using Guid(a661067d91d8a2e478045748e2f2cd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a424ed1c62ea08c5f1297afce4b5eb4') in 0.0299982 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/ADSLight03.mat
+  artifactKey: Guid(143a035845541ee4b9697456290a07fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/ADSLight03.mat using Guid(143a035845541ee4b9697456290a07fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c6c1c5d35c6c10503c3e8cf7f9a4c66') in 0.9932477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/ADS_NEON_Horizontal05.mat
+  artifactKey: Guid(06ec08514e4ab8148b6c7fb098de0e10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/ADS_NEON_Horizontal05.mat using Guid(06ec08514e4ab8148b6c7fb098de0e10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c365befb64baf5ee1db6b84ea6973c4b') in 0.0254861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads07.mat
+  artifactKey: Guid(cbb03cb72da641140bf02947da2119b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/Ads07.mat using Guid(cbb03cb72da641140bf02947da2119b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '896bfc037a5f051e12c38c43449bd7c9') in 0.0216026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.496625 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/ADSLight10.mat
+  artifactKey: Guid(91926950542b71e4894edd3ee158e8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/ADSLight10.mat using Guid(91926950542b71e4894edd3ee158e8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0eb114997ad729bd8ec25f8db35ba329') in 0.0810782 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/ADSLight11.mat
+  artifactKey: Guid(39ff71ea443fbbf4781fd07a3462b48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/ADSLight11.mat using Guid(39ff71ea443fbbf4781fd07a3462b48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f7e85135dbc7c8719e9b17373d73d21b') in 0.0649682 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert00b.mat
+  artifactKey: Guid(3d6dd2fb23128864283a0d9096b4525a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert00b.mat using Guid(3d6dd2fb23128864283a0d9096b4525a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dd7b0c947c9ed5a7d1951b240a63dbee') in 0.0405937 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.205475 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert01.mat
+  artifactKey: Guid(b43ec368ea3916e42bf5fe05605fab7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert01.mat using Guid(b43ec368ea3916e42bf5fe05605fab7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '487a7b4724311a5b31024de2f3dbd52b') in 0.0272283 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert02.mat
+  artifactKey: Guid(312db99ba767ae64e8dfbe5e032184eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert02.mat using Guid(312db99ba767ae64e8dfbe5e032184eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d23279639a67723a9bec6e146c1f30a') in 0.0360613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001281 seconds.
+  path: Assets/_DLNK/_DLNK Source/Source Materials/Skies/Ancient Iberic Ruins.mat
+  artifactKey: Guid(5b59eb6f60d34034284162c295da2cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/_DLNK Source/Source Materials/Skies/Ancient Iberic Ruins.mat using Guid(5b59eb6f60d34034284162c295da2cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ef3bd5cfdf7ce01f9a0133a5aa2a2fd') in 0.07067 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert02c.mat
+  artifactKey: Guid(4111d021fbacaf84c976ab4ee365354b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert02c.mat using Guid(4111d021fbacaf84c976ab4ee365354b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a72bcf2494ca772fc391d9d079c1d21d') in 0.026071 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert06.mat
+  artifactKey: Guid(01fb51577c341204e81e6c3254aa6f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Advert06.mat using Guid(01fb51577c341204e81e6c3254aa6f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fab9756a54742092cadf6c50c01b70ff') in 1.1968898 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickDamaged00b.mat
+  artifactKey: Guid(2485ef400cc96c449830e8d3e70c17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickDamaged00b.mat using Guid(2485ef400cc96c449830e8d3e70c17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd664221495c8bc5523c7cd6a01bd7922') in 0.0869592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickBase01.mat
+  artifactKey: Guid(076d77702ae6c11408ed69bc4bda95fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickBase01.mat using Guid(076d77702ae6c11408ed69bc4bda95fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b84bd0f7035b29026e01b4b53a1817ed') in 0.0632784 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Special/Grid/BasicGrid 3.mat
+  artifactKey: Guid(38717c6ca16cd514b8848f1a8f6a3128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Special/Grid/BasicGrid 3.mat using Guid(38717c6ca16cd514b8848f1a8f6a3128) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62ea2734fd18c08d5af4f5bf5b0c10ab') in 0.0987015 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Special/Misc/Black.mat
+  artifactKey: Guid(d400a3971e2e53c46aca2af5ab2437b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Special/Misc/Black.mat using Guid(d400a3971e2e53c46aca2af5ab2437b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2dab2897473ea45cb3f0f4cedf088835') in 0.0249269 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Special/Grid/BasicGrid.mat
+  artifactKey: Guid(bdbb16dabed0d4549b16038a9b4dde5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Special/Grid/BasicGrid.mat using Guid(bdbb16dabed0d4549b16038a9b4dde5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16196e0f878ee9cd93d7b5316806f299') in 0.0326723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00c 1.mat
+  artifactKey: Guid(2f00447ae620c9e4b9d06399c5730553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00c 1.mat using Guid(2f00447ae620c9e4b9d06399c5730553) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9ad77e7082a2459d5b98db65768d1ce') in 0.0847501 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00f.mat
+  artifactKey: Guid(67464d1d66bb34745a65fa412f6cd0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00f.mat using Guid(67464d1d66bb34745a65fa412f6cd0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '245ef057b9cadd365177df1b6ef13014') in 0.0494617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/CeramicDirtTiles01.mat
+  artifactKey: Guid(a053ba6e674d2a046b9a09e9973324bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/CeramicDirtTiles01.mat using Guid(a053ba6e674d2a046b9a09e9973324bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f61212f3f69cd8cda2ef983ded8b7454') in 0.0919464 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickDamaged00.mat
+  artifactKey: Guid(38d1b428493120c42b490eebf510dbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickDamaged00.mat using Guid(38d1b428493120c42b490eebf510dbee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d027ff73fb0ddaef0625373f7f84b5d') in 0.0416649 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Doors/BuildDoor02.mat
+  artifactKey: Guid(b15fae7cf99193c42a7d0ebb18e55c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Doors/BuildDoor02.mat using Guid(b15fae7cf99193c42a7d0ebb18e55c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95b5c8fb31149f9418098c6892f0030f') in 0.0589185 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Special/Grid/BasicGrid 2.mat
+  artifactKey: Guid(6b7dc7b5cfcf3d046a87f6b6af6a2607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Special/Grid/BasicGrid 2.mat using Guid(6b7dc7b5cfcf3d046a87f6b6af6a2607) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81b218aeff4295ed053b7e8b0d065db7') in 0.0394934 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat
+  artifactKey: Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat using Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '56ab167936d7d2aea148e08277cce0a3') in 0.1018833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildingWindows05.mat
+  artifactKey: Guid(9a37b9d4aaffa9a4892cb56ac1c6e569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildingWindows05.mat using Guid(9a37b9d4aaffa9a4892cb56ac1c6e569) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4722e1d1390922de453b2574d1b56919') in 0.1023935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildingWindows04.mat
+  artifactKey: Guid(d43da680b934d9d45a8f2a683e1c9bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildingWindows04.mat using Guid(d43da680b934d9d45a8f2a683e1c9bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79b0b25ad69398d79d391ca81659e93a') in 0.0946732 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickBase00.mat
+  artifactKey: Guid(842e9365f71c42644a2d1149f32bd4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Bricks/BrickBase00.mat using Guid(842e9365f71c42644a2d1149f32bd4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d251c05cabeb0f0f833dd77b6188dae') in 0.0391499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00c 4.mat
+  artifactKey: Guid(b96c605051e78574c8d7c60f41478c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Windows/BuildWindows00c 4.mat using Guid(b96c605051e78574c8d7c60f41478c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '139dd423451a58352f6ff66864b792cd') in 0.041072 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.543369 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_1x3.obj
+  artifactKey: Guid(d0188ed1057e0294f80e485bb8f07684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_1x3.obj using Guid(d0188ed1057e0294f80e485bb8f07684) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00b514048ce0765c625bfed2a9ce44ce') in 0.1021717 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 40
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_5x3.obj
+  artifactKey: Guid(44f8a96f642ef474caa1f375b966fd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_2Sides_5x3.obj using Guid(44f8a96f642ef474caa1f375b966fd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3dc7bb6dc623dbde0a5b4bcfd63b9933') in 0.0688912 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 40
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03_1.mat
+  artifactKey: Guid(4c60b4e3fb5db7f4eb20d437d144a78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03_1.mat using Guid(4c60b4e3fb5db7f4eb20d437d144a78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '735e95f5507d3fb8dcb37cdaa5ddc285') in 0.0620697 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt.mat
+  artifactKey: Guid(9cdd923e890fa7f4397e3377c24859a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt.mat using Guid(9cdd923e890fa7f4397e3377c24859a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dde49532245e3cc6bdabaca2006f9880') in 0.1480452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 2.mat
+  artifactKey: Guid(d34650095a5bb304d873cbeb1ccb3295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 2.mat using Guid(d34650095a5bb304d873cbeb1ccb3295) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '60ceec6271635ebb0f0f991c1b07b9e2') in 0.071075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcreteDeco00.mat
+  artifactKey: Guid(1e0003947b4a9d249b90c56d55089de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcreteDeco00.mat using Guid(1e0003947b4a9d249b90c56d55089de6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db8ecc5a0f975489506ce4eac5a4e25d') in 0.0624536 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_5x3.obj
+  artifactKey: Guid(15cf8e9f6d99a9f4081ce6aadcb42cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_5x3.obj using Guid(15cf8e9f6d99a9f4081ce6aadcb42cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '87ffef8a29526991240eb765fa4d9089') in 0.0625118 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_10x3.obj
+  artifactKey: Guid(59a6c48a1ab4a0040aa891e6cbdca214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/WallBasic00/Wall_Simple_10x3.obj using Guid(59a6c48a1ab4a0040aa891e6cbdca214) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '237ab15fe5740ff0097e5ec1ad1a9448') in 0.0602833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 4.mat
+  artifactKey: Guid(84a11a0bad1827f4489802f91062bf03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Light/Concrete_Lgt 4.mat using Guid(84a11a0bad1827f4489802f91062bf03) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '526c665d2bab93008f76b211fa5ccbda') in 0.0672972 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete01.mat
+  artifactKey: Guid(7ba41274ced85fa4299e1dac52972d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete01.mat using Guid(7ba41274ced85fa4299e1dac52972d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a2f9fc1cc2d7877b83b8e529dc138ae') in 0.0682506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03b.mat
+  artifactKey: Guid(bdc5adefb2658a84a906fb0b75ff197e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03b.mat using Guid(bdc5adefb2658a84a906fb0b75ff197e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cbd4b84d3dce65be6f985156645e6641') in 0.0570407 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcretePanels00.mat
+  artifactKey: Guid(8fcf6218c399465468c9ffdfaa637641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcretePanels00.mat using Guid(8fcf6218c399465468c9ffdfaa637641) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f494624a856481be323a8adde9504659') in 0.0892747 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete_Dust1.mat
+  artifactKey: Guid(0d80b636d6f8bbe48a017524dcf9d4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete_Dust1.mat using Guid(0d80b636d6f8bbe48a017524dcf9d4d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dec9afb96d47cc3146fa4297d0c08427') in 0.1342948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03c.mat
+  artifactKey: Guid(2d832b795ab8e91408e4736c96afefc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/Concrete03c.mat using Guid(2d832b795ab8e91408e4736c96afefc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '328a47a4e9356857ef842f99d45f6797') in 0.0905792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.759329 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcreteTiles00.mat
+  artifactKey: Guid(8a3a4781fe479f84aa4b931dd7ffa3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcreteTiles00.mat using Guid(8a3a4781fe479f84aa4b931dd7ffa3ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51af55d78cbb4f8153a17db5d4aade79') in 0.0928553 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/Cristal06Opaque.mat
+  artifactKey: Guid(5ab49d4711f5b4944bae5406f8af4a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/Cristal06Opaque.mat using Guid(5ab49d4711f5b4944bae5406f8af4a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4da9d3d10142d841c690ec48f87b1778') in 0.0608054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/CristalDark00.mat
+  artifactKey: Guid(d4dbdf4fbf67ff94faa634e97b9ff08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/CristalDark00.mat using Guid(d4dbdf4fbf67ff94faa634e97b9ff08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0ede96a310c262d6887ff6026528db29') in 0.0468248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcreteTiles00b.mat
+  artifactKey: Guid(b3a3c01442001c244aa358e916080b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Concrete/ConcreteTiles00b.mat using Guid(b3a3c01442001c244aa358e916080b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf2de76418af8a89d00e1b3196a92e88') in 0.056224 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/Cristal03.mat
+  artifactKey: Guid(d166dcb4f43a99c45b8197617df6bd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/Cristal03.mat using Guid(d166dcb4f43a99c45b8197617df6bd34) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a65c3fac4a0987cefc80664882ec164') in 0.0563685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/Cristal00.mat
+  artifactKey: Guid(544569b5ac203824d98b000cbc2a907d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Cristal/Cristal00.mat using Guid(544569b5ac203824d98b000cbc2a907d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ed134cef91db5c75aec45378b0419de') in 0.0405638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.304372 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel00.mat
+  artifactKey: Guid(f9f53cbbcf6efee44a4192d0fee05c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Panels/CyberpunkPannel00.mat using Guid(f9f53cbbcf6efee44a4192d0fee05c5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cb929b02cfe3d7c8571ce24364f3086') in 0.0914443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_DLNK/_DLNK Source/Source Materials/CharIco/DarkRubber.mat
+  artifactKey: Guid(2876afc9dc23b20469c7846379d63b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/_DLNK Source/Source Materials/CharIco/DarkRubber.mat using Guid(2876afc9dc23b20469c7846379d63b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72d862466bcf1ebd09f5986fa9fc2f79') in 0.0572089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Big/Trees/Branches/Cypress00Body.mat
+  artifactKey: Guid(4c38a9b1708461c45902e3d8a9d4ece5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Big/Trees/Branches/Cypress00Body.mat using Guid(4c38a9b1708461c45902e3d8a9d4ece5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94a1348e559471aba456abaf033efa41') in 0.0423022 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Big/Trees/Branches/Cypress00Branches.mat
+  artifactKey: Guid(9acea2d4afb0669469343de0b505d89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Big/Trees/Branches/Cypress00Branches.mat using Guid(9acea2d4afb0669469343de0b505d89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a16c2e2a80390eba64ac36f68788f33f') in 0.0459944 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/DecalNum2.mat
+  artifactKey: Guid(a8e2d8dbf14a2094d8d2fb8f2c6def2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/DecalNum2.mat using Guid(a8e2d8dbf14a2094d8d2fb8f2c6def2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c6fd1f96488e2f13904d117b6fda3dc') in 0.0456501 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Decal.mat
+  artifactKey: Guid(9f3fef72e55890147ab8f7f7e03876da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Decal.mat using Guid(9f3fef72e55890147ab8f7f7e03876da) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f31121d2b493ae0df722321cb0df769') in 1.0210594 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.256327 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum3.mat
+  artifactKey: Guid(636d1029782a90c40a1cb7e9a391034b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum3.mat using Guid(636d1029782a90c40a1cb7e9a391034b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db426f642567713e9a24046ae917f81e') in 0.0393669 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum6.mat
+  artifactKey: Guid(3e10ef597e46d9946bfed8b42b8175f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Numbers/Transparent/DecalNum6.mat using Guid(3e10ef597e46d9946bfed8b42b8175f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7b8144df4d142fbbb46126fd5d636d48') in 0.0360349 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/DecalNum5_lgt.mat
+  artifactKey: Guid(1f3416256d1bfe74c96929f8a121560a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/DecalNum5_lgt.mat using Guid(1f3416256d1bfe74c96929f8a121560a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03df8fb355d97dcd4ff576c9f7fed462') in 0.0617455 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/DecalNum3b.mat
+  artifactKey: Guid(c52b8146966c6d44aa2708e2cbe39ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Neon/DecalNum3b.mat using Guid(c52b8146966c6d44aa2708e2cbe39ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '852776ea246dac03d7a474b5fb212a0d') in 0.0300645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040374 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/DiamondTiles00_0.mat
+  artifactKey: Guid(45dbb566e7de5fc47877eee0418a14f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/DiamondTiles00_0.mat using Guid(45dbb566e7de5fc47877eee0418a14f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1dc6b3fa46b8dd7f71be3046018042bd') in 0.0657128 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/FXs/Clouds/ETP_Cloud_02.mat
+  artifactKey: Guid(a3351dc061f94ec48bb438d2d736af1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/FXs/Clouds/ETP_Cloud_02.mat using Guid(a3351dc061f94ec48bb438d2d736af1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12fb9f1cb99930f3e41e1e5221b8e1ac') in 0.033617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants00.mat
+  artifactKey: Guid(e1a94a98e842c2242a28589911160ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants00.mat using Guid(e1a94a98e842c2242a28589911160ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d988b66b20ee6cc82ae5eeb1ef398bc') in 0.0371367 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/FXs/Clouds/ETP_Cloud_03.mat
+  artifactKey: Guid(13124a8ac249e4f41b360e11d2bdb560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/FXs/Clouds/ETP_Cloud_03.mat using Guid(13124a8ac249e4f41b360e11d2bdb560) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4da81541e3346889aa1edf4f853c3637') in 0.0302823 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026459 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants06.mat
+  artifactKey: Guid(a52d88071495a204ea73762235c56c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants06.mat using Guid(a52d88071495a204ea73762235c56c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c51894622aab8405c80b76e58c6290b8') in 0.0217213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants08.mat
+  artifactKey: Guid(5d906c6e882b76845aad4fc17b54a94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Materials/Detail Small/Plants/ETP_Plants08.mat using Guid(5d906c6e882b76845aad4fc17b54a94a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '62058b827e5de0159867aa31ce37b14c') in 0.0252911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/_DLNK/_DLNK Source/Source Materials/CharIco/Fire.mat
+  artifactKey: Guid(1df01e6af0939fb418ddee12644d4b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/_DLNK Source/Source Materials/CharIco/Fire.mat using Guid(1df01e6af0939fb418ddee12644d4b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e54520c7e7632ef0f2996f9ff75124d9') in 0.0247611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000735 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/FloorTiles02.mat
+  artifactKey: Guid(8d4e6580c3283254e8335cd6086dec7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/FloorTiles02.mat using Guid(8d4e6580c3283254e8335cd6086dec7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52dd92bba531b550a9dbaf9fe55eacd5') in 0.0813888 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Materials/Floor_Mat.mat
+  artifactKey: Guid(bccda72ea10879f4c81bcce8ab731112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Materials/Floor_Mat.mat using Guid(bccda72ea10879f4c81bcce8ab731112) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43ac464f7e96bd743845a47d12af0f06') in 0.0165055 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/FloorTiles03.mat
+  artifactKey: Guid(2d0bf50dadecf7645a4d51d56bc9fc6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Generic/Tiles/FloorTiles03.mat using Guid(2d0bf50dadecf7645a4d51d56bc9fc6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3be1a6a0a3797dee1fec5758a7ab3cf') in 0.0708611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.543054 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf
+  artifactKey: Guid(997a43b767814dd0a7642ec9b78cba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf using Guid(997a43b767814dd0a7642ec9b78cba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ece1504dd1a721fdac41e8b795c964b') in 0.0543451 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf
+  artifactKey: Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf using Guid(c9f6d0e7bc8541498c9a4799ba184ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '387b6f72226ee2f1300dcdb8d47b5c9b') in 0.0203219 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.235988 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Graff/Graff03.mat
+  artifactKey: Guid(6ed506b93c8d56541ba5a4b3ad8461bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Graff/Graff03.mat using Guid(6ed506b93c8d56541ba5a4b3ad8461bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ef79a684269e418aea53b39b67346dc') in 0.0384945 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Graff/Graff06.mat
+  artifactKey: Guid(51633cb0f2621d94ba375e1bf3db036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Materials/Manmade/Decals/Graff/Graff06.mat using Guid(51633cb0f2621d94ba375e1bf3db036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce28d890e1d38358340283bad4d43e54') in 0.0302816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  1.758 seconds
+Refreshing native plugins compatible for Editor in 1.15 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.979 seconds
+Domain Reload Profiling: 2736ms
+	BeginReloadAssembly (535ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (18ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (151ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (1113ms)
+		LoadAssemblies (999ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (415ms)
+			TypeCache.Refresh (31ms)
+				TypeCache.ScanAssembly (4ms)
+			BuildScriptInfoCaches (358ms)
+			ResolveRequiredComponents (20ms)
+	FinalizeReload (980ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (681ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (530ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (31ms)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5884 unused Assets / (5.2 MB). Loaded Objects now: 6662.
+Memory consumption went from 270.0 MB to 264.8 MB.
+Total: 9.394200 ms (FindLiveObjects: 0.871600 ms CreateObjectMapping: 0.474700 ms MarkObjects: 5.528300 ms  DeleteObjects: 2.518000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 424.020241 seconds.
+  path: Assets/_DLNK/Neon City/Scene/NeonScene01/Source/2k_saturn.jpg
+  artifactKey: Guid(79fdf4f4eda8c714eb37f463eea48923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Scene/NeonScene01/Source/2k_saturn.jpg using Guid(79fdf4f4eda8c714eb37f463eea48923) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95a4df76620792d1aebf5f1ce7c40cd5') in 0.2478321 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/_DLNK/Neon City/Scene/NeonScene00/Source/Lens Flares/Art Assets/85mmflare.psd
+  artifactKey: Guid(4a93c4d9bf7d24e8092c204085982402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Scene/NeonScene00/Source/Lens Flares/Art Assets/85mmflare.psd using Guid(4a93c4d9bf7d24e8092c204085982402) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f2ca7cc7f4fc35b9cb7718eee4cefd9') in 0.0312743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5879 unused Assets / (5.5 MB). Loaded Objects now: 6666.
+Memory consumption went from 269.9 MB to 264.4 MB.
+Total: 9.695800 ms (FindLiveObjects: 0.757900 ms CreateObjectMapping: 0.376000 ms MarkObjects: 5.298000 ms  DeleteObjects: 3.259800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.908 seconds
+Refreshing native plugins compatible for Editor in 1.46 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.964 seconds
+Domain Reload Profiling: 1877ms
+	BeginReloadAssembly (263ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (552ms)
+		LoadAssemblies (438ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (257ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (209ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (965ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (656ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (77ms)
+			ProcessInitializeOnLoadAttributes (510ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (35ms)
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5885 unused Assets / (3.2 MB). Loaded Objects now: 6666.
+Memory consumption went from 271.7 MB to 268.5 MB.
+Total: 10.558900 ms (FindLiveObjects: 0.800600 ms CreateObjectMapping: 0.460600 ms MarkObjects: 7.132900 ms  DeleteObjects: 2.163100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.796 seconds
+Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.832 seconds
+Domain Reload Profiling: 1628ms
+	BeginReloadAssembly (260ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (445ms)
+		LoadAssemblies (387ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (186ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (157ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (833ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (554ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (432ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5885 unused Assets / (5.8 MB). Loaded Objects now: 6666.
+Memory consumption went from 273.6 MB to 267.8 MB.
+Total: 8.792800 ms (FindLiveObjects: 0.810000 ms CreateObjectMapping: 0.422900 ms MarkObjects: 4.724700 ms  DeleteObjects: 2.833600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  1.497 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.861 seconds
+Domain Reload Profiling: 2357ms
+	BeginReloadAssembly (556ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (38ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (192ms)
+	RebuildCommonClasses (48ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (43ms)
+	LoadAllAssembliesAndSetupDomain (834ms)
+		LoadAssemblies (717ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (291ms)
+			TypeCache.Refresh (32ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (229ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (861ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (572ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (447ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (29ms)
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5885 unused Assets / (5.8 MB). Loaded Objects now: 6666.
+Memory consumption went from 275.4 MB to 269.6 MB.
+Total: 8.713800 ms (FindLiveObjects: 0.728300 ms CreateObjectMapping: 0.383700 ms MarkObjects: 4.981700 ms  DeleteObjects: 2.618900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.771 seconds
+Refreshing native plugins compatible for Editor in 0.88 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.832 seconds
+Domain Reload Profiling: 1601ms
+	BeginReloadAssembly (228ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (450ms)
+		LoadAssemblies (390ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (184ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (159ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (833ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (569ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (451ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Refreshing native plugins compatible for Editor in 1.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5885 unused Assets / (5.7 MB). Loaded Objects now: 6666.
+Memory consumption went from 277.4 MB to 271.7 MB.
+Total: 8.429900 ms (FindLiveObjects: 0.769000 ms CreateObjectMapping: 0.371300 ms MarkObjects: 4.123800 ms  DeleteObjects: 3.163900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5879 unused Assets / (6.4 MB). Loaded Objects now: 6666.
+Memory consumption went from 277.5 MB to 271.2 MB.
+Total: 9.831000 ms (FindLiveObjects: 0.904100 ms CreateObjectMapping: 0.458800 ms MarkObjects: 5.420300 ms  DeleteObjects: 3.045200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  2.251 seconds
+Refreshing native plugins compatible for Editor in 1.45 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.993 seconds
+Domain Reload Profiling: 3242ms
+	BeginReloadAssembly (1126ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (106ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (423ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (1007ms)
+		LoadAssemblies (951ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (319ms)
+			TypeCache.Refresh (35ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (243ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (994ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (671ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (89ms)
+			ProcessInitializeOnLoadAttributes (509ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (32ms)
+Refreshing native plugins compatible for Editor in 1.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5885 unused Assets / (5.8 MB). Loaded Objects now: 6666.
+Memory consumption went from 279.3 MB to 273.6 MB.
+Total: 9.631900 ms (FindLiveObjects: 0.773900 ms CreateObjectMapping: 0.437500 ms MarkObjects: 5.843000 ms  DeleteObjects: 2.576500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.817 seconds
+Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.852 seconds
+Domain Reload Profiling: 1666ms
+	BeginReloadAssembly (247ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (471ms)
+		LoadAssemblies (413ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (197ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (172ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (852ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (584ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (461ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Refreshing native plugins compatible for Editor in 1.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5885 unused Assets / (6.2 MB). Loaded Objects now: 6666.
+Memory consumption went from 281.3 MB to 275.1 MB.
+Total: 8.708600 ms (FindLiveObjects: 0.767600 ms CreateObjectMapping: 0.428100 ms MarkObjects: 4.440100 ms  DeleteObjects: 3.071300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5879 unused Assets / (8.9 MB). Loaded Objects now: 6666.
+Memory consumption went from 281.4 MB to 272.5 MB.
+Total: 14.781200 ms (FindLiveObjects: 1.068400 ms CreateObjectMapping: 0.746200 ms MarkObjects: 5.770800 ms  DeleteObjects: 7.194000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.858 seconds
+Refreshing native plugins compatible for Editor in 1.88 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.840 seconds
+Domain Reload Profiling: 1701ms
+	BeginReloadAssembly (234ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (532ms)
+		LoadAssemblies (434ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (178ms)
+			ResolveRequiredComponents (20ms)
+	FinalizeReload (840ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (575ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (457ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (27ms)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5885 unused Assets / (5.9 MB). Loaded Objects now: 6666.
+Memory consumption went from 283.2 MB to 277.3 MB.
+Total: 8.659900 ms (FindLiveObjects: 1.009900 ms CreateObjectMapping: 0.500700 ms MarkObjects: 3.835200 ms  DeleteObjects: 3.312900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  1.046 seconds
+Refreshing native plugins compatible for Editor in 1.11 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.959 seconds
+Domain Reload Profiling: 2004ms
+	BeginReloadAssembly (354ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (97ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (589ms)
+		LoadAssemblies (542ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (215ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (187ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (960ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (656ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (521ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (33ms)
+Refreshing native plugins compatible for Editor in 2.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5885 unused Assets / (5.1 MB). Loaded Objects now: 6666.
+Memory consumption went from 285.0 MB to 279.9 MB.
+Total: 19.269900 ms (FindLiveObjects: 1.903600 ms CreateObjectMapping: 0.886500 ms MarkObjects: 8.254500 ms  DeleteObjects: 8.224100 ms)
+
+Prepare: number of updated asset objects reloaded= 0

@@ -1,0 +1,1013 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.1f1 (a6dd9a634651) revision 10935706'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 16005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+51188
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [36308] Host "[IP] 192.168.204.1 [Port] 0 [Flags] 2 [Guid] 2374627422 [EditorId] 2374627422 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IBBANTT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [36308] Host "[IP] 192.168.204.1 [Port] 0 [Flags] 2 [Guid] 2374627422 [EditorId] 2374627422 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IBBANTT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 115.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.1f1 (a6dd9a634651)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   31.0.15.1691
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56480
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004071 seconds.
+- Loaded All Assemblies, in  0.580 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.408 seconds
+Domain Reload Profiling: 985ms
+	BeginReloadAssembly (233ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (198ms)
+		LoadAssemblies (228ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (195ms)
+			TypeCache.Refresh (193ms)
+				TypeCache.ScanAssembly (175ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (409ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (338ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (243ms)
+			ProcessInitializeOnLoadMethodAttributes (70ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  1.189 seconds
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.405 seconds
+Domain Reload Profiling: 2587ms
+	BeginReloadAssembly (458ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (612ms)
+		LoadAssemblies (481ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (273ms)
+			TypeCache.Refresh (217ms)
+				TypeCache.ScanAssembly (192ms)
+			BuildScriptInfoCaches (39ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1405ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (752ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (617ms)
+			ProcessInitializeOnLoadMethodAttributes (49ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 175 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5800 unused Assets / (3.5 MB). Loaded Objects now: 6478.
+Memory consumption went from 261.8 MB to 258.3 MB.
+Total: 10.995300 ms (FindLiveObjects: 0.854100 ms CreateObjectMapping: 0.835200 ms MarkObjects: 6.511100 ms  DeleteObjects: 2.793200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 500147.200459 seconds.
+  path: Assets/_DLNK/Neon City/Source
+  artifactKey: Guid(507fb70c117901643be706b78f005077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source using Guid(507fb70c117901643be706b78f005077) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0b4c26fe9cbf80c6c0a3222f8e94ef5') in 0.010744 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.233288 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh
+  artifactKey: Guid(19f8ddddcf64bff40a7e2b14158fcb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh using Guid(19f8ddddcf64bff40a7e2b14158fcb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9bf4f9657abc5f60f3b77430069e8b85') in 0.000881 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054444 seconds.
+  path: Assets/_DLNK/Neon City/Source/Mesh/BuildRoof00.fbx
+  artifactKey: Guid(84af6cde4e043964c8c8f91b0e268aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Neon City/Source/Mesh/BuildRoof00.fbx using Guid(84af6cde4e043964c8c8f91b0e268aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16b15db3f569e9b614643b7dacfd9f77') in 0.9005771 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 218
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.869 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.840 seconds
+Domain Reload Profiling: 1702ms
+	BeginReloadAssembly (255ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (17ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (513ms)
+		LoadAssemblies (470ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (179ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (152ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (840ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (554ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (431ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (31ms)
+Refreshing native plugins compatible for Editor in 1.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5798 unused Assets / (5.1 MB). Loaded Objects now: 6560.
+Memory consumption went from 245.4 MB to 240.3 MB.
+Total: 8.115200 ms (FindLiveObjects: 1.042400 ms CreateObjectMapping: 0.593100 ms MarkObjects: 4.281600 ms  DeleteObjects: 2.196000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 139.693709 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source
+  artifactKey: Guid(c7146e4dc3dfd6247b8c4fc1185bd0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source using Guid(c7146e4dc3dfd6247b8c4fc1185bd0a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65a34faadd55fd9b6323f7446d87f760') in 0.0070958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.274706 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Maps
+  artifactKey: Guid(e2a4c89bf08acff499a1f9789cb6b1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Maps using Guid(e2a4c89bf08acff499a1f9789cb6b1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3791ca8a489de1db1f020b7bc309d290') in 0.0011487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.791985 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Maps/Detail Big
+  artifactKey: Guid(fdc52d6c5663327498083ebc820c802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Maps/Detail Big using Guid(fdc52d6c5663327498083ebc820c802a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b168c04c07573f93ae809eeee21d3e6c') in 0.0007458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.684295 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/Source/Maps/Detail Big/Trees
+  artifactKey: Guid(fb6d9dfb38a79674dbbca39068f1ca04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/Source/Maps/Detail Big/Trees using Guid(fb6d9dfb38a79674dbbca39068f1ca04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77ad89ccdbbefe0c58d54a7bde590fd1') in 0.0008036 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.811921 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/[PREFABS]
+  artifactKey: Guid(9237a5829e195044b8d83e531975bd38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/[PREFABS] using Guid(9237a5829e195044b8d83e531975bd38) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a3131c5dfdeee9beadfd02658691597b') in 0.0012764 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.368997 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/[PREFABS]/01 Terrain Big
+  artifactKey: Guid(7d65434b26aef3844a04add6889315c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/[PREFABS]/01 Terrain Big using Guid(7d65434b26aef3844a04add6889315c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d6cc479e5e2396688062b160ad90610') in 0.0008949 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094137 seconds.
+  path: Assets/_DLNK/Essential Terrain Pack/[PREFABS]/01 Terrain Big/BigTerrain02_002.prefab
+  artifactKey: Guid(d4e3432dbff714c4e838267a8af6594b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_DLNK/Essential Terrain Pack/[PREFABS]/01 Terrain Big/BigTerrain02_002.prefab using Guid(d4e3432dbff714c4e838267a8af6594b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f9c1a5390ad4f9a65f3caf2321c38ca') in 0.4954904 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 45
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.820339 seconds.
+  path: Assets/Vefects/ItemPickUp
+  artifactKey: Guid(d0d8e9d222f194846a256ff2993ffcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp using Guid(d0d8e9d222f194846a256ff2993ffcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d19d2d643a815ed137b948e9011adee') in 0.0008651 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.040979 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX
+  artifactKey: Guid(1f7e87ab1b3bf1541a97226219e3273a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX using Guid(1f7e87ab1b3bf1541a97226219e3273a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db021fe0958603b6752c2368e6c5786f') in 0.0007213 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.117831 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials
+  artifactKey: Guid(08e295ef83ee61d45a3fcd562f6efe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials using Guid(08e295ef83ee61d45a3fcd562f6efe24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2444c626d4d3400a627e264a6cb99cba') in 0.0010057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033466 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Beam_01.mat
+  artifactKey: Guid(c99d051cc32f02f4ebe25bc8689019e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Beam_01.mat using Guid(c99d051cc32f02f4ebe25bc8689019e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '807c121890886898d64116231b4260c0') in 0.462726 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_FlareChromatic_01.mat
+  artifactKey: Guid(554447fb4a7461b43a8ef4b57da1e256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_FlareChromatic_01.mat using Guid(554447fb4a7461b43a8ef4b57da1e256) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '0fcc7dc4ba43e30f79bbcc006a371e91') in 0.0149987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Glow_02.mat
+  artifactKey: Guid(415fc0420df36df4f8230c21757764a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Glow_02.mat using Guid(415fc0420df36df4f8230c21757764a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '1bcb32cc7698e83cd37c856be5f9260e') in 0.012993 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Trail_01.mat
+  artifactKey: Guid(487c491aed61fc84180fca8964f6df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Trail_01.mat using Guid(487c491aed61fc84180fca8964f6df61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '91a25c8c9c35a9feb37628fc6dd15fd9') in 0.011887 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Flare_02.mat
+  artifactKey: Guid(387c3b8eeae3c40449452b9e2abe70ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Flare_02.mat using Guid(387c3b8eeae3c40449452b9e2abe70ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '2e9444ab7a4bbef8a9ab05fee5201e68') in 0.0138268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_FlareChromatic_02.mat
+  artifactKey: Guid(29692f2e60eed464ea65d9a0336ab6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_FlareChromatic_02.mat using Guid(29692f2e60eed464ea65d9a0336ab6d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '968c7607c6d7bc357b347b3fbd063729') in 0.0108789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_GlowCircle_02.mat
+  artifactKey: Guid(d79a4f2ec6e5f7043822f582e61247b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_GlowCircle_02.mat using Guid(d79a4f2ec6e5f7043822f582e61247b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '5f50309732a96d582794140b970b7c27') in 0.0231311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Glow_03.mat
+  artifactKey: Guid(ce90ac23c9b15ed48808036305de0b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Glow_03.mat using Guid(ce90ac23c9b15ed48808036305de0b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: 'ce9b6cabcc55a87be58e17fe7591a213') in 0.0111333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_FlareChromatic_03.mat
+  artifactKey: Guid(1940fc8989e82f148b49b6206143e8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_FlareChromatic_03.mat using Guid(1940fc8989e82f148b49b6206143e8b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '7cba79c4f820d6d1b0e2e2f95c07ef6b') in 0.0120789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 25
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Beam_06.mat
+  artifactKey: Guid(25ceedd10f867284c85813485eea7408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Beam_06.mat using Guid(25ceedd10f867284c85813485eea7408) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: '69d6954e155af8e18939fa75ae802c76') in 0.01855 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Triangle.mat
+  artifactKey: Guid(094084249a5ec7942b9acb95fc95ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Triangle.mat using Guid(094084249a5ec7942b9acb95fc95ac2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: 'f50bde95a6149ee7bdb4d38bafc467a1') in 0.0128558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Flare_05.mat
+  artifactKey: Guid(5be040776cf4e834db057b3509033f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Flare_05.mat using Guid(5be040776cf4e834db057b3509033f46) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: 'b04a6ff426afd7ea9bb5fbb618039bfe') in 0.0112043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Gradient_01.mat
+  artifactKey: Guid(714936bf57d2f494aaf9507c003eb08a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Materials/M_VFX_Gradient_01.mat using Guid(714936bf57d2f494aaf9507c003eb08a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+Shader error in 'Vefects/SH_Vefects_VFX_AdvParticle': redefinition of '_CameraDepthTexture_TexelSize' at line 269 (on d3d11)
+
+Compiling Subshader: 0, Pass: Forward, Vertex program with <no keywords>
+Platform defines: SHADER_API_DESKTOP UNITY_ENABLE_DETAIL_NORMALMAP UNITY_ENABLE_REFLECTION_BUFFERS UNITY_LIGHTMAP_FULL_HDR UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BLENDING UNITY_SPECCUBE_BOX_PROJECTION UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS
+Disabled keywords: INSTANCING_ON SHADER_API_GLES30 UNITY_ASTC_NORMALMAP_ENCODING UNITY_COLORSPACE_GAMMA UNITY_FRAMEBUFFER_FETCH_AVAILABLE UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_DXT5nm UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_UNIFIED_SHADER_PRECISION_MODEL UNITY_VIRTUAL_TEXTURING
+ -> (artifact id: 'b5f5df6fda9c5af65ad896503ff8d81a') in 0.027929 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.708322 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures
+  artifactKey: Guid(01747fc8d6a9af94faadb89b5414258e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures using Guid(01747fc8d6a9af94faadb89b5414258e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '274a825267f6d857b63bb6fe5caed427') in 0.0009193 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035910 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Flare_01.png
+  artifactKey: Guid(fdde9788cd999f44d9f0df99cf965aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Flare_01.png using Guid(fdde9788cd999f44d9f0df99cf965aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f67322c44fb6a22eb940f55319ac70bd') in 0.0331504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Noise_03.png
+  artifactKey: Guid(a226c07bd0a1fa34293288ee876b14a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Noise_03.png using Guid(a226c07bd0a1fa34293288ee876b14a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '506e50c34a5424c0281d371d29b95576') in 0.0186211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Noise_01.png
+  artifactKey: Guid(5da891e529789af44acd8038887c3d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Noise_01.png using Guid(5da891e529789af44acd8038887c3d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '685b7b27161bb5722423ebed44e54f79') in 0.0169682 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Noise_04.png
+  artifactKey: Guid(c6d7b7e52dbc7164f9ed46db7a52dd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Noise_04.png using Guid(c6d7b7e52dbc7164f9ed46db7a52dd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f707a0fb782a29d5faf7943383043305') in 0.0226052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Flare_04.png
+  artifactKey: Guid(ca02219c075e9c640b128e303671a487) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Flare_04.png using Guid(ca02219c075e9c640b128e303671a487) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a65f844368de76df8650249385ce526') in 0.0173462 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Gradient_05.png
+  artifactKey: Guid(39aac826ac2f62c4c94353fc27e7dc10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Gradient_05.png using Guid(39aac826ac2f62c4c94353fc27e7dc10) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f9cc4bff67e610b7ea2da6da51e31a9') in 0.0408933 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Flare_03.png
+  artifactKey: Guid(9e1b89958baa3cb4886dfcfb488020d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Flare_03.png using Guid(9e1b89958baa3cb4886dfcfb488020d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a08f4ebacd0bb4d5a382fb331f5af6c') in 0.0207723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Glow_02.png
+  artifactKey: Guid(4cde82a3a6f08d843978ec0709d7b53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Glow_02.png using Guid(4cde82a3a6f08d843978ec0709d7b53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09ca79197594acc8ef84911d742db790') in 0.0173654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001907 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_FlareChromatic_02.png
+  artifactKey: Guid(0e4e7825d4837de40b37ec144dc7a48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_FlareChromatic_02.png using Guid(0e4e7825d4837de40b37ec144dc7a48d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9574bf9a5fb962e2f547705b1b1bad96') in 0.0188561 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Triangle_01.png
+  artifactKey: Guid(f1115f886c06b254a81566081e1a658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Triangle_01.png using Guid(f1115f886c06b254a81566081e1a658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b26f40858c4fa09adbe5fb373f3f7a4b') in 0.0247292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Flare_05.png
+  artifactKey: Guid(e898917768f2c5046888cf6381d2ad1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Flare_05.png using Guid(e898917768f2c5046888cf6381d2ad1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed7e6031a902892698c8c92dfa63fbfd') in 0.0167879 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Glow_04.png
+  artifactKey: Guid(9c0939f70f89a7f458094c3b732a0d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vefects/ItemPickUp/VFX/Textures/T_VFX_Glow_04.png using Guid(9c0939f70f89a7f458094c3b732a0d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aae0e618145d7910862230194971b05d') in 0.0229588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 216.142221 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Knife_Stealth_Equip.FBX
+  artifactKey: Guid(502bf463d4c8a674d9520b3d2382a37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Knife_Stealth_Equip.FBX using Guid(502bf463d4c8a674d9520b3d2382a37c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '58e23b716cb45e67b4d43fbd97cab0de') in 0.0095068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_ClavicleStabDown_Vic.FBX
+  artifactKey: Guid(9aaec406a3a3a784ca990fee12bfc738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_ClavicleStabDown_Vic.FBX using Guid(9aaec406a3a3a784ca990fee12bfc738) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '555f58f550d014e54a6e83930cf2098f') in 0.0088832 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011642 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_ClavicleStabDown_Att.FBX
+  artifactKey: Guid(d10e9a3e465ae8242b36399785ee4d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_ClavicleStabDown_Att.FBX using Guid(d10e9a3e465ae8242b36399785ee4d00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ae9981f727874440b74f6904ed07b0b5') in 0.0089698 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_FromAbove_Stab_Att.FBX
+  artifactKey: Guid(25830dca93bd95b4297df3febc699bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_FromAbove_Stab_Att.FBX using Guid(25830dca93bd95b4297df3febc699bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2a57510370f4a06989cd2a6776272909') in 0.0080865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017623 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_Interrogate_EndKill_Vic.FBX
+  artifactKey: Guid(7ddb66198b21e4e40a88c55cdb174e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_Interrogate_EndKill_Vic.FBX using Guid(7ddb66198b21e4e40a88c55cdb174e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afbe94f8b557928c6eda254393c7ecdf') in 0.0122365 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_Interrogate_Start_Att.FBX
+  artifactKey: Guid(5415a8a0961ae86498f29657b3755658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_Interrogate_Start_Att.FBX using Guid(5415a8a0961ae86498f29657b3755658) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21e8499ba27ed433b1628e291f2742a4') in 0.0100449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_NeckStab_Att.FBX
+  artifactKey: Guid(b071195399fa1cb4f998a424f6ac84ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_NeckStab_Att.FBX using Guid(b071195399fa1cb4f998a424f6ac84ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '88c33a6be0d789004b8a0e6f43b78bda') in 0.0099437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_NeckStab_Vic.FBX
+  artifactKey: Guid(2d1a869ddb292354ba3be3394e77e07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_NeckStab_Vic.FBX using Guid(2d1a869ddb292354ba3be3394e77e07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c5960038fb96bad1f35c57a69f95b9c') in 0.0180636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_SpinStab_Vic.FBX
+  artifactKey: Guid(0f742325c6113a948b8fb27232061cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_SpinStab_Vic.FBX using Guid(0f742325c6113a948b8fb27232061cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '08006923fb265823944300a50ac3b547') in 0.0102978 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_ThighAndNeckStab_Vic.FBX
+  artifactKey: Guid(052d7da732836d747b0ff226e701c277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_ThighAndNeckStab_Vic.FBX using Guid(052d7da732836d747b0ff226e701c277) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45fe6e26eedc369d95f1bec719320724') in 0.0120947 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_GrabFlipStab_Vic.FBX
+  artifactKey: Guid(03cf0455dbe45574abf9c99d746626f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_GrabFlipStab_Vic.FBX using Guid(03cf0455dbe45574abf9c99d746626f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7126f429678ae384f7177d3923032832') in 0.0104417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_Interrogate_Start_Vic.FBX
+  artifactKey: Guid(008777ba328baad4c8c936d410e35356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_Interrogate_Start_Vic.FBX using Guid(008777ba328baad4c8c936d410e35356) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '95b729b33b4cc4deda17d7bc34b396ac') in 0.0089878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.208302 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_GrabFlipStab_Vic.FBX
+  artifactKey: Guid(03cf0455dbe45574abf9c99d746626f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_GrabFlipStab_Vic.FBX using Guid(03cf0455dbe45574abf9c99d746626f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9804121f974e16bbe4fff002ddce8232') in 0.0053983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 141
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.332692 seconds.
+  path: Packages/com.unity.starter-assets/Runtime/ThirdPersonController/Character/Animations/Walking.controller
+  artifactKey: Guid(bd4dd847c663de644a81afc2983b63ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.starter-assets/Runtime/ThirdPersonController/Character/Animations/Walking.controller using Guid(bd4dd847c663de644a81afc2983b63ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f362ebda58860a4917044ebf2f08de4b') in 0.0042499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.133865 seconds.
+  path: Assets/Universal_Traversal_Anims/Art/Animations/In_Place_Versions/AnimSeq_Traversal_Movement_Walk_Forward.FBX
+  artifactKey: Guid(81ba032999de1b24a82253c13b3b86f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universal_Traversal_Anims/Art/Animations/In_Place_Versions/AnimSeq_Traversal_Movement_Walk_Forward.FBX using Guid(81ba032999de1b24a82253c13b3b86f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8c8c9cc65234b91ff5ce0f935543c378') in 0.0043413 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 141
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.350849 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_GrabFlipStab_Vic.FBX
+  artifactKey: Guid(03cf0455dbe45574abf9c99d746626f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_GrabFlipStab_Vic.FBX using Guid(03cf0455dbe45574abf9c99d746626f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84df6106ac7bd23f722e42f36cfbe72a') in 0.0121051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 141
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.052005 seconds.
+  path: Assets/Universal_Traversal_Anims/Art/Animations/In_Place_Versions/AnimSeq_Traversal_Movement_Walk_Forward.FBX
+  artifactKey: Guid(81ba032999de1b24a82253c13b3b86f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universal_Traversal_Anims/Art/Animations/In_Place_Versions/AnimSeq_Traversal_Movement_Walk_Forward.FBX using Guid(81ba032999de1b24a82253c13b3b86f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '217d9998a526cd92ab74c7163426eb86') in 0.0047676 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 141
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.185189 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_GrabFlipStab_Vic.FBX
+  artifactKey: Guid(03cf0455dbe45574abf9c99d746626f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/Knife_Stealth/Paired_Knife_Stealth_GrabFlipStab_Vic.FBX using Guid(03cf0455dbe45574abf9c99d746626f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '75e565a724bffe71545e0883f97b1625') in 0.0044405 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 141
+
+========================================================================
+Received Import Request.
+  Time since last request: 182.330411 seconds.
+  path: Assets/Universal_Traversal_Anims/Art/Animations/In_Place_Versions/AnimSeq_Traversal_Movement_Walk_Forward.FBX
+  artifactKey: Guid(81ba032999de1b24a82253c13b3b86f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Universal_Traversal_Anims/Art/Animations/In_Place_Versions/AnimSeq_Traversal_Movement_Walk_Forward.FBX using Guid(81ba032999de1b24a82253c13b3b86f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f8d60a7043ebb4c607b3ff6bd3dd0580') in 0.0047796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 141
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.353377 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_Idle.FBX
+  artifactKey: Guid(26a65c7222fc50d488f981b9e82ecb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_Idle.FBX using Guid(26a65c7222fc50d488f981b9e82ecb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9f08da8fecc173fccd5282bf0f77486a') in 0.006477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_LeftSideWallCover_Throw.fbx
+  artifactKey: Guid(d972dd96b344e2e46a249165f4053dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_LeftSideWallCover_Throw.fbx using Guid(d972dd96b344e2e46a249165f4053dac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f8d044a78cdd2326691de0786e6f650') in 0.0061273 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014220 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_LeftSideWallCover_to_RightSideTurn.fbx
+  artifactKey: Guid(801311efdae53cd45808db753667ed35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_LeftSideWallCover_to_RightSideTurn.fbx using Guid(801311efdae53cd45808db753667ed35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4838dc288846f41f4406a84c31a58b20') in 0.0074455 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005599 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RightSideWallCover_Throw.fbx
+  artifactKey: Guid(ee280aabfda7d5748b95ba008ddc4b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RightSideWallCover_Throw.fbx using Guid(ee280aabfda7d5748b95ba008ddc4b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '178bd25bf2c9e275211999f7c85f50f4') in 0.00687 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RollForward.FBX
+  artifactKey: Guid(8d0d517ae07e5d3479bddfa5862eebe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RollForward.FBX using Guid(8d0d517ae07e5d3479bddfa5862eebe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5609f05ab0aba6870c08659ce8cf62a4') in 0.0114905 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_to_Standing_Idle.FBX
+  artifactKey: Guid(99140f06f2f08334b97d1559d82358f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_to_Standing_Idle.FBX using Guid(99140f06f2f08334b97d1559d82358f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd2713e37a145adb764f07e1258dc793') in 0.0080964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBack_rm.fbx
+  artifactKey: Guid(d71a304bbb675e54d8e7e196aa0da56c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBack_rm.fbx using Guid(d71a304bbb675e54d8e7e196aa0da56c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3e8a663efae55586fb0aa306ca27791e') in 0.0074808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackwardLeft.FBX
+  artifactKey: Guid(b80ee032ae58f504eba32f77690f9903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackwardLeft.FBX using Guid(b80ee032ae58f504eba32f77690f9903) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '722c6d79167969bde9be592afcbf419e') in 0.0123958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RightSideWallCover_Idle.fbx
+  artifactKey: Guid(2791707643d67d4438b310bf3e22212d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RightSideWallCover_Idle.fbx using Guid(2791707643d67d4438b310bf3e22212d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '712a61811679831ab97d71d22f8be96a') in 0.009986 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForwardRight.FBX
+  artifactKey: Guid(72d476756f571b44181fb62b16b1894e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForwardRight.FBX using Guid(72d476756f571b44181fb62b16b1894e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78bc116c8bd92a59c2520ad8a084e6b8') in 0.0085637 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkLeft.FBX
+  artifactKey: Guid(264a3debad0bb39478ddf17f641daba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkLeft.FBX using Guid(264a3debad0bb39478ddf17f641daba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7190c5bdc77919c190e1429c142082ec') in 0.0067792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_End_Att.FBX
+  artifactKey: Guid(d214b6a141eb8be4f9d6fe81236cc99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_End_Att.FBX using Guid(d214b6a141eb8be4f9d6fe81236cc99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3ce5d620453e86eefb9db312ca5554db') in 0.0120066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_End_Vic.FBX
+  artifactKey: Guid(9db9a493b3161a446b67bde44a841c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_End_Vic.FBX using Guid(9db9a493b3161a446b67bde44a841c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25fb2943ab557e9ec249a511a65ea664') in 0.0088441 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_FailedAttack_Vic.FBX
+  artifactKey: Guid(29e8565713a7e144cb71acfd6f76d919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_FailedAttack_Vic.FBX using Guid(29e8565713a7e144cb71acfd6f76d919) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a1f3ebd55cc7ce6e64384d3a9d031ec') in 0.0072563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_FromAbove_NeckKick_Vic.FBX
+  artifactKey: Guid(f1faa63e588b34f449ec5f03eff0f782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_FromAbove_NeckKick_Vic.FBX using Guid(f1faa63e588b34f449ec5f03eff0f782) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06b6e9094699c48c2952366b8b7227f4') in 0.021182 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkLeft_rm.fbx
+  artifactKey: Guid(201ef7f333f45e941b0e166ac72374be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkLeft_rm.fbx using Guid(201ef7f333f45e941b0e166ac72374be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ffe267cce32877d39d9b3db450de5563') in 0.0063818 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForward.FBX
+  artifactKey: Guid(7bcd6ebaa05e3d849bef929a7ff291ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForward.FBX using Guid(7bcd6ebaa05e3d849bef929a7ff291ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '579dc43f7efd97f030793264d6038848') in 0.0171405 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RollBack.FBX
+  artifactKey: Guid(289c8767c6d8ae14dadfff4efde0640a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RollBack.FBX using Guid(289c8767c6d8ae14dadfff4efde0640a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d8d113cd03b06c0d91ed88fe7aee21b') in 0.0088068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_LeftSideWallCover_WalkForward.fbx
+  artifactKey: Guid(153b142a5e684a840b012e2eeed36df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_LeftSideWallCover_WalkForward.fbx using Guid(153b142a5e684a840b012e2eeed36df8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f12cf38d4cdaa76c766d78ddf49329d') in 0.0070001 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_Start_Att.FBX
+  artifactKey: Guid(cc393beb919e8dd45b849e5b5adc14d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_Start_Att.FBX using Guid(cc393beb919e8dd45b849e5b5adc14d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9541f1cf1a91100f9c31806103277f93') in 0.0088215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

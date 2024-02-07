@@ -1,0 +1,375 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.1f1 (a6dd9a634651) revision 10935706'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 16005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker9
+-projectPath
+D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+-logFile
+Logs/AssetImportWorker9.log
+-srvPort
+51188
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [21636] Host "[IP] 192.168.204.1 [Port] 0 [Flags] 2 [Guid] 2785224950 [EditorId] 2785224950 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IBBANTT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [21636] Host "[IP] 192.168.204.1 [Port] 0 [Flags] 2 [Guid] 2785224950 [EditorId] 2785224950 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IBBANTT) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.1f1 (a6dd9a634651)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/OneDrive - 부산외국어대학교/바탕 화면/neonrunner2/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     6023 MB
+    Driver:   31.0.15.1691
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56344
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005548 seconds.
+- Loaded All Assemblies, in  0.515 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.450 seconds
+Domain Reload Profiling: 962ms
+	BeginReloadAssembly (179ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (67ms)
+	LoadAllAssembliesAndSetupDomain (202ms)
+		LoadAssemblies (174ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (199ms)
+			TypeCache.Refresh (197ms)
+				TypeCache.ScanAssembly (180ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (451ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (369ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (13ms)
+			ProcessInitializeOnLoadAttributes (270ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  1.249 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.075 seconds
+Domain Reload Profiling: 2318ms
+	BeginReloadAssembly (471ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (653ms)
+		LoadAssemblies (512ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (289ms)
+			TypeCache.Refresh (231ms)
+				TypeCache.ScanAssembly (208ms)
+			BuildScriptInfoCaches (41ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1075ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (742ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (94ms)
+			ProcessInitializeOnLoadAttributes (584ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 176 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5803 unused Assets / (5.3 MB). Loaded Objects now: 6480.
+Memory consumption went from 262.1 MB to 256.8 MB.
+Total: 9.596400 ms (FindLiveObjects: 1.417100 ms CreateObjectMapping: 0.649800 ms MarkObjects: 4.638000 ms  DeleteObjects: 2.889500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 501152.315301 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_LeftSideWallCover_Idle.fbx
+  artifactKey: Guid(764e43474ae3e2c4cb8ad0aa3f801a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_LeftSideWallCover_Idle.fbx using Guid(764e43474ae3e2c4cb8ad0aa3f801a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f89a51ea57e7b8eda059c5f4fccb005') in 0.0606464 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009169 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RightSideWallCover_WalkForward.fbx
+  artifactKey: Guid(5a178f50445fef345939dcfcda7e90d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RightSideWallCover_WalkForward.fbx using Guid(5a178f50445fef345939dcfcda7e90d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f4f62b747ec8a65634ba3afad6cf27b0') in 0.0050654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RightSideWallCover_to_LeftSideTurn.fbx
+  artifactKey: Guid(2ad10462e14787842ac0a3998bfca52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RightSideWallCover_to_LeftSideTurn.fbx using Guid(2ad10462e14787842ac0a3998bfca52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7648de781418f43a61d7f4c2197bf04a') in 0.0074851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RollLeft.FBX
+  artifactKey: Guid(8e564001c915fc64daa6e6a1d472a9de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RollLeft.FBX using Guid(8e564001c915fc64daa6e6a1d472a9de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3046f3b238576864df8fff1983f0f5d6') in 0.0061661 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_TurnLeft90.FBX
+  artifactKey: Guid(be8c490c6a7adfc4bbbf71f6d5649b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_TurnLeft90.FBX using Guid(be8c490c6a7adfc4bbbf71f6d5649b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7598b6c02fc5269724ff7564ea35fa5') in 0.0082002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RollRight.FBX
+  artifactKey: Guid(52da2687315ee2f4cbc0700ffc300ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_RollRight.FBX using Guid(52da2687315ee2f4cbc0700ffc300ca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a496cdb5c210bc0a376a17ed0cede70c') in 0.0076162 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackward.FBX
+  artifactKey: Guid(98c13e2eb22874b42900ef2f41c7b04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackward.FBX using Guid(98c13e2eb22874b42900ef2f41c7b04f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b82cff39ffe339663fcbc026cb9c44e9') in 0.011591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackRight_rm.fbx
+  artifactKey: Guid(804488309eff655498f0b0e30b13dbda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackRight_rm.fbx using Guid(804488309eff655498f0b0e30b13dbda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38a5cecc6ad7a2e6dbd0ea6ee1216ccf') in 0.007445 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForwardLeft.FBX
+  artifactKey: Guid(f2d14389e1044ca4a82204fc434cde97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForwardLeft.FBX using Guid(f2d14389e1044ca4a82204fc434cde97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '97a5f6dbb146a14df922d2e345b17497') in 0.0076224 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForwardRight_rm.fbx
+  artifactKey: Guid(a3922b6e774d73c4caa2af492f9a77a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForwardRight_rm.fbx using Guid(a3922b6e774d73c4caa2af492f9a77a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2a7c8d380c59315d626983d7e1a1ee3') in 0.0093102 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkRight.FBX
+  artifactKey: Guid(9fca31118712a194fa81c4f35c5d2545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkRight.FBX using Guid(9fca31118712a194fa81c4f35c5d2545) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82d18b9b468ef5872530d8a8e16dc382') in 0.0077555 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_Loop_Att.FBX
+  artifactKey: Guid(c98424c5f25d9774fb342e8f37a92a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_Loop_Att.FBX using Guid(c98424c5f25d9774fb342e8f37a92a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5659871e00b41e4ccfdd96fd774153ec') in 0.009743 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkRight_rm.fbx
+  artifactKey: Guid(a11363520ea18704abddd0df3ab481ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkRight_rm.fbx using Guid(a11363520ea18704abddd0df3ab481ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ede34546ae9d7143979a906f66f445ef') in 0.0058588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_FromAbove_NeckKick_Att.FBX
+  artifactKey: Guid(a1779aa5a391fe149ae5432724da5177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_FromAbove_NeckKick_Att.FBX using Guid(a1779aa5a391fe149ae5432724da5177) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '57e5f808a5f36e26b7f7679b7d01b8ce') in 0.0077942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_FailedAttack_Att.FBX
+  artifactKey: Guid(40967effb57359a48b581df5542e9dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_FailedAttack_Att.FBX using Guid(40967effb57359a48b581df5542e9dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b0e85c0cf04956750d26da7d0a1085ab') in 0.0066623 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForwardLeft_rm.fbx
+  artifactKey: Guid(8ca21211e92d0e0459ff6328f201e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForwardLeft_rm.fbx using Guid(8ca21211e92d0e0459ff6328f201e225) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ade5bd2ed16a2ea081993d1bf831fa27') in 0.0068293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_Start_Vic.FBX
+  artifactKey: Guid(4a08c7fa78a18ec40b0470f86b0dbf06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_Start_Vic.FBX using Guid(4a08c7fa78a18ec40b0470f86b0dbf06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '478bf05b90efe70b531d699c71faa994') in 0.0072178 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_TurnRight90.FBX
+  artifactKey: Guid(bb5723b05b5faf94d8fca24b3174ee07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_TurnRight90.FBX using Guid(bb5723b05b5faf94d8fca24b3174ee07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2961c0d5ca495b6516dc36c0b04facdd') in 0.0094005 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackwardRight.FBX
+  artifactKey: Guid(c6184a3acc668d544b3ad18566299cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackwardRight.FBX using Guid(c6184a3acc668d544b3ad18566299cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db6a11266b16c0a7c3a23170082476fa') in 0.0078776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_Loop_Vic.FBX
+  artifactKey: Guid(33e3282b2b9398643b24c924441c608a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/Paired_H2H_Stealth_DraggingBody_Loop_Vic.FBX using Guid(33e3282b2b9398643b24c924441c608a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8b8481529b60e86954f72b87670c66e6') in 0.0089742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForward_rm.fbx
+  artifactKey: Guid(4b8869580df4c4e428a44ff1bf3b7b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkForward_rm.fbx using Guid(4b8869580df4c4e428a44ff1bf3b7b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3fb624b1dd33baa1c3af8c906ae69a5c') in 0.0070024 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackLeft_rm.fbx
+  artifactKey: Guid(920eccacc97327a4aa3fd144107fd72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StealthFinishers_Knife_and_Hand/Animations/H2H_Stealth/H2H_Stealth_WalkBackLeft_rm.fbx using Guid(920eccacc97327a4aa3fd144107fd72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7bcd7f2aa26406af8268a1f30f45d6be') in 0.006288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 139
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
